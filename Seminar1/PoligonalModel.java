@@ -31,4 +31,12 @@ public class PoligonalModel extends Model {
         texture = txr;
     }
 
+    public Poligon getPoligon() {
+        return poligon;
+    }
+
+    public Texture getTexture() {
+        return texture;
+    }
+
 }

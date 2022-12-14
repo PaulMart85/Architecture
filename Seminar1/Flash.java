@@ -37,5 +37,13 @@ public class Flash extends Model {
 
     }
 
+    public Color getColor() {
+        return color;
+    }
+
+    public float getPower() {
+        return power;
+    }
+
     
 }
