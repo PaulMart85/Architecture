@@ -1,0 +1,14 @@
+C:\Users\PandA\Downloads\Desktop\Architecture\Seminar11\ClinicDesctop\bin\Debug\ClinicDesctop.exe.config
+C:\Users\PandA\Downloads\Desktop\Architecture\Seminar11\ClinicDesctop\bin\Debug\ClinicDesctop.exe
+C:\Users\PandA\Downloads\Desktop\Architecture\Seminar11\ClinicDesctop\bin\Debug\ClinicDesctop.pdb
+C:\Users\PandA\Downloads\Desktop\Architecture\Seminar11\ClinicDesctop\obj\Debug\ClinicDesctop.csproj.AssemblyReference.cache
+C:\Users\PandA\Downloads\Desktop\Architecture\Seminar11\ClinicDesctop\obj\Debug\ClinicDesctop.csproj.SuggestedBindingRedirects.cache
+C:\Users\PandA\Downloads\Desktop\Architecture\Seminar11\ClinicDesctop\obj\Debug\ClinicDesctop.Properties.Resources.resources
+C:\Users\PandA\Downloads\Desktop\Architecture\Seminar11\ClinicDesctop\obj\Debug\ClinicDesctop.csproj.GenerateResource.cache
+C:\Users\PandA\Downloads\Desktop\Architecture\Seminar11\ClinicDesctop\obj\Debug\ClinicDesctop.csproj.CoreCompileInputs.cache
+C:\Users\PandA\Downloads\Desktop\Architecture\Seminar11\ClinicDesctop\obj\Debug\ClinicDesctop.exe
+C:\Users\PandA\Downloads\Desktop\Architecture\Seminar11\ClinicDesctop\obj\Debug\ClinicDesctop.pdb
+C:\Users\PandA\Downloads\Desktop\Architecture\Seminar11\ClinicDesctop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PandA\Downloads\Desktop\Architecture\Seminar11\ClinicDesctop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PandA\Downloads\Desktop\Architecture\Seminar11\ClinicDesctop\obj\Debug\ClinicDesctop.MainForm.resources
+C:\Users\PandA\Downloads\Desktop\Architecture\Seminar11\ClinicDesctop\obj\Debug\ClinicDesctop.csproj.CopyComplete
